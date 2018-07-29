@@ -27,10 +27,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="IRh-Kd-R4t" firstAttribute="top" secondItem="gMn-zd-0qU" secondAttribute="bottom" id="DLa-FQ-pNp"/>
-                            <constraint firstItem="gMn-zd-0qU" firstAttribute="top" secondItem="cgc-2J-RP8" secondAttribute="bottom" id="EVF-nw-c1f"/>
-                            <constraint firstItem="gMn-zd-0qU" firstAttribute="leading" secondItem="7f1-MH-wzd" secondAttribute="leading" id="dlx-ga-6ji"/>
-                            <constraint firstAttribute="trailing" secondItem="gMn-zd-0qU" secondAttribute="trailing" id="q7E-xR-bvh"/>
+                            <constraint firstAttribute="trailing" secondItem="gMn-zd-0qU" secondAttribute="trailing" id="8jK-9x-ra2"/>
+                            <constraint firstItem="gMn-zd-0qU" firstAttribute="leading" secondItem="7f1-MH-wzd" secondAttribute="leading" id="K5w-jh-K4b"/>
+                            <constraint firstItem="gMn-zd-0qU" firstAttribute="top" secondItem="cgc-2J-RP8" secondAttribute="bottom" id="L1x-y8-IEm"/>
+                            <constraint firstItem="IRh-Kd-R4t" firstAttribute="top" secondItem="gMn-zd-0qU" secondAttribute="bottom" id="fjh-bP-aZL"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="DRN-bd-oZm">
